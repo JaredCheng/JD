@@ -28,6 +28,7 @@
                     <span>密　码：</span>
                     <input name="password" class="login_input">
                 </li>
+                你好.............................
                 <li class="login-sub">
                     <input type="submit" name="Submit" value="登录" />
                 </li>
