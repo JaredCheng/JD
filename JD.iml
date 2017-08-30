@@ -26,8 +26,7 @@
     <orderEntry type="library" name="Spring MVC-4.3.10.RELEASE" level="project" />
     <orderEntry type="library" name="mybatis-3.4.4 " level="project" />
     <orderEntry type="library" name="jstl" level="project" />
-    <orderEntry type="library" name="fastjson-1.2.5" level="project" />
-    <orderEntry type="library" name="mybatis-spring-1.2.3" level="project" />
     <orderEntry type="library" name="commons-dbcp-1.4" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>

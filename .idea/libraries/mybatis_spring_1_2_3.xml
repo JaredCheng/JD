@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="mybatis-spring-1.2.3">
-    <CLASSES>
-      <root url="jar://C:/apache-tomcat-9.0.0.M21/lib/spring/mybatis-spring-1.2.3.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
