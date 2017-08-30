@@ -30,7 +30,6 @@
                 </li>
                 <li class="login-sub">
                     <input type="submit" name="Submit" value="登录" />
-                    打发打发士大夫
                 </li>
             </form>
         </div>
