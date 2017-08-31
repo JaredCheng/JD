@@ -30,6 +30,7 @@
                 </li>
                 <li class="login-sub">
                     <input type="submit" name="Submit" value="登录" />
+                    iu国与国vu一般语录了比u不
                 </li>
             </form>
         </div>
